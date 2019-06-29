@@ -1,0 +1,6 @@
+#include <iostream>
+using namspace std;
+void main(){
+cout<<"Hello World"<<endl;
+return;
+};
